@@ -7,7 +7,7 @@
  */
 const USER_CONFIG = {
   
-USE_PASSAGE: 'push-plus',
+USE_PASSAGE: 'server-chan',
   
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wxe188c170ccb522d1',
@@ -16,7 +16,7 @@ USE_PASSAGE: 'push-plus',
   APP_SECRET: '2dd1d8f07e8466b2014df368d76399b8',
 
   PROVINCE: '广西',
-  CITY: '桂林',
+  CITY: '永福',
 
   USERS: [
     {
